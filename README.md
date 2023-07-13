@@ -1,0 +1,1 @@
+## In questo notebook faro una riproduzione della LeNet-5 di LeCun
